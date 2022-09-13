@@ -2,7 +2,7 @@ Student: Oleksandr Lohun Group: CE-46 Subject: CSDT
 
 Project name: pong Programming language: JavaScript
 
-Additional tools/utils: Bash, Make HW interface: I2C Data driven format: 
+Additional tools/utils: Bash, Make HW interface: I2C Data driven format: JSON
 
 Play modes: Man vs AI, Man vs Man, AI vs AI
 
