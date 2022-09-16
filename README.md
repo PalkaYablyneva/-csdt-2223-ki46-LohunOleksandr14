@@ -4,7 +4,7 @@ Project name: pong Programming language: JavaScript
 
 Additional tools/utils: Bash, Make HW interface: I2C Data driven format: JSON
 
-Play modes: Man vs AI, Man vs Man, AI vs AI
+Play modes: Man vs AI, Man vs Man, AI vs AI.
 
 AI supports next complexity levels: Random move, Win strategy
 
