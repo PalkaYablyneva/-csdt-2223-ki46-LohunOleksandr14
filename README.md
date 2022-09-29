@@ -25,4 +25,4 @@ Create pull request with name task1 and submit author as reviewer.
 
 After the reviewer approved – merge request into develop branch.
 
-CreateGITTAG:__WW ∙ YY – current year; ∙ WW – work week; ∙ D – current day number of weak. Acceptance criteria: The created repo link with the “develop” as default branch and README.ML file.
+CreateGITTAG:__WW ∙ YY – current year; ∙ WW – work week; ∙ D – current day number of weak. Acceptance criteria: The created repo link with the “develop” as default branch and README.ML file...
